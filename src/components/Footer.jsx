@@ -13,8 +13,9 @@ const Footer = () => {
             />
 
             <p className="text-base leading-relaxed text-gray-600 mt-7">
-              Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
+              Welcome to my corner of the web! I'm a passionate web developer specializing in crafting intuitive, responsive, and visually compelling digital experiences. 
+              With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Node.js, 
+              I transform ideas into seamless websites and applications.
             </p>
 
             <ul className="flex items-center space-x-3 mt-9">
@@ -159,7 +160,7 @@ const Footer = () => {
                   className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
                 >
                   {" "}
-                  Customer Support{" "}
+                  Terms and Conditions{" "}
                 </a>
               </li>
 
@@ -200,7 +201,7 @@ const Footer = () => {
 
           <div className="col-span-2 md:col-span-1 lg:col-span-2 lg:pl-8">
             <p className="text-sm font-semibold tracking-widest text-gray-400 uppercase">
-              Subscribe to newsletter
+              Subscribe to My portfolio
             </p>
 
             <form action="#" method="POST" className="mt-6">

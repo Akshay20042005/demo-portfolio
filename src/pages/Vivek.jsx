@@ -2,14 +2,14 @@ import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-function Vivek() {
+function Akshay() {
   return (
     <div>
       <Header />
-      Hey there,
+      Hey there,I am akshay here to help you
       <Footer />
     </div>
   );
 }
 
-export default Vivek;
+export default Akshay;

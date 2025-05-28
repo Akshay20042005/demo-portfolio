@@ -9,8 +9,9 @@ const Steps = () => {
             How does it work?
           </h2>
           <p className="max-w-lg mx-auto mt-4 text-base leading-relaxed text-gray-600">
-            Amet minim mollit fan deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis.
+            Welcome to my corner of the web! I'm a passionate web developer specializing in crafting intuitive, responsive, and visually compelling digital experiences. 
+            With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Node.js,
+            I transform ideas into seamless websites and applications.
           </p>
         </div>
 
@@ -32,8 +33,9 @@ const Steps = () => {
                 Create a free account
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                 Welcome to my corner of the web! I'm a passionate web developer specializing in crafting intuitive, responsive, and visually compelling digital experiences. 
+                 With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Node.js,
+                 I transform ideas into seamless websites and applications.
               </p>
             </div>
 
@@ -45,8 +47,9 @@ const Steps = () => {
                 Build your website
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                 Welcome to my corner of the web! I'm a passionate web developer specializing in crafting intuitive, responsive, and visually compelling digital experiences. 
+                 With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Node.js,
+                 I transform ideas into seamless websites and applications.
               </p>
             </div>
 
@@ -58,8 +61,9 @@ const Steps = () => {
                 Release & Launch
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                 Welcome to my corner of the web! I'm a passionate web developer specializing in crafting intuitive, responsive, and visually compelling digital experiences. 
+                 With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Node.js,
+                 I transform ideas into seamless websites and applications.
               </p>
             </div>
           </div>

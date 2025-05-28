@@ -29,39 +29,39 @@ import {
 
 const products = [
   {
-    name: "Analytics",
-    description: "Get a better understanding of your traffic",
+    name: "UI/UX",
+    description: "Get a better understanding of your UI frameworks",
     href: "#",
     icon: ChartPieIcon,
   },
   {
-    name: "Engagement",
-    description: "Speak directly to your customers",
+    name: "Amazon Clone",
+    description: "For cloning a website",
     href: "#",
     icon: CursorArrowRaysIcon,
   },
   {
-    name: "Security",
-    description: "Your customers’ data will be safe and secure",
+    name: "AI chatbot",
+    description: "Your will  interact with the AI bot and data will be safe and secure",
     href: "#",
     icon: FingerPrintIcon,
   },
   {
-    name: "Integrations",
-    description: "Connect with third-party tools",
+    name: "Academic portal",
+    description: "Deals with the academic internship details",
     href: "#",
     icon: SquaresPlusIcon,
   },
   {
-    name: "Automations",
-    description: "Build strategic funnels that will convert",
+    name: "flipkart frontend",
+    description: "describes the UI of flipkart",
     href: "#",
     icon: ArrowPathIcon,
   },
 ];
 const callsToAction = [
-  { name: "Watch demo", href: "#", icon: PlayCircleIcon },
-  { name: "Contact sales", href: "#", icon: PhoneIcon },
+  { name: "Watch my projects", href: "#", icon: PlayCircleIcon },
+  { name: "Contact me", href: "#", icon: PhoneIcon },
 ];
 
 export default function Header() {
@@ -81,7 +81,7 @@ export default function Header() {
               src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
               className="h-8 w-auto"
             /> */}
-            Vivek
+            Akshay 
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -96,8 +96,8 @@ export default function Header() {
         </div>
         <PopoverGroup className="hidden lg:flex lg:gap-x-12">
           <Popover className="relative">
-            <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
-              Product
+            <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-white-900">
+              Projects
               <ChevronDownIcon
                 aria-hidden="true"
                 className="size-5 flex-fane text-gray-400"
